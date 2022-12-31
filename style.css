@@ -1,0 +1,239 @@
+#main_div{
+    height: 2500px;
+    width: 1550px;
+    /* border: 2px black solid; */
+    background-image: url(../images/Backgroud\ pic\ of\ netflix.jpg);
+    
+    
+    
+    
+}
+#header{
+     width: 100%;
+     height: 10%;
+     /* border: solid black 2px; */
+     
+     
+} 
+#header_left{
+width: 50%;
+float: left;
+/* border: 2px black solid; */
+padding-left: 60px;
+
+}
+#header_right{
+    width: 50%;
+    float: right;
+    /* border: 2px black solid; */
+    padding-left: 420px;
+    padding-top: 40px;
+
+}
+#dropdown{
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+#main_content{
+    height: 500px;
+    width: 1550px;
+    /* border: 2px black solid; */
+}
+#a{
+    color: white;
+    font-size: 60px;
+
+}
+#b{
+    color: white;
+    font-size: 35px;
+    
+}
+#c{
+    color: white;
+    font-size: 20px;
+    
+}
+.button {
+    background-color:red;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none; 
+    display: inline-block;
+    font-size: 16px;
+  }
+  #aa{
+    padding:15px 345px 25px 4px;
+   
+  }
+  .h6{
+    color: rgb(244, 217, 15);
+    padding-left: 210px;
+    font-weight: bold;
+  }
+  .gray{
+    width: 1550px;
+    height: 8px;
+    background-color: gray;
+    /* border: 1px black solid; */
+  }
+  #tv{
+    height: 500px;
+    width: 1550px;
+    background-color: black;
+    
+  }
+  #tv_left{
+    width: 50%;
+    float: left;
+    color: white;
+    padding-left: 200px;
+    padding-top: 170px;
+    
+  }
+  #tv_right{
+    width: 50%;
+    float: right;
+    padding-top: 70px;
+    padding-left: 150px;
+    
+  }
+  #mobile{
+  width: 1550px;
+  height: 500px;
+  background-color: black;
+  }
+
+  #mobile_left{
+   width: 50%;
+   float: left;
+  }
+
+  #mobile_right{
+   width: 50%;
+   float: right;
+   color: white;
+   padding-left: 20px;
+   padding-top: 180px;
+  }
+
+   #apple_tv{
+    width: 1550px;
+    height: 500px;
+    background-color: black;
+    }
+  
+    #apple_tv_left{
+     width: 50%;
+     float: left;
+     color: white;
+     padding-left: 170px;
+     padding-top: 150px;
+    }
+  
+    #apple_tv_right{
+     width: 50%;
+     float: right;
+     
+    }
+
+    #child{
+        width: 1550px;
+        height: 500px;
+        background-color: black;
+        }
+      
+        #child_left{
+         width: 50%;
+         float: left;
+        
+        }
+      
+        #child_right{
+         width: 50%;
+         float: right;
+         color: white;
+         padding-left: 17px;
+         padding-top: 150px;
+        }
+        h1{
+            font-size: 50px;
+        }
+        h3{
+            font-size: 25px;
+        }
+        #frequently{
+            width: 1550px;
+            height: 100px;
+            border: solid black 1px;
+            text-align: center;
+            padding-top: 40px;
+            color: white;
+            background-color: black;
+        }
+        #question_div{
+            width: 1550px;
+            height: 700px;
+            text-align: center;
+            background-color: black;
+            padding-top: 40px;
+            padding-left: 400px;
+        }
+        .question_class{
+            width: 850px;
+            height: 75px;
+            color: white;
+            text-align: left;
+            background-color: gray;
+            padding-left: 40px;
+            padding-top: 18px;
+
+
+        }
+        h2{
+            font-size: 25px;
+        }
+
+        #last{
+            width: 1550px;
+            height: 200px;
+            border: 1px solid black;
+            color: white;
+            background-color: black;
+            padding-left: 460px;
+        }
+        h5{
+            padding-left: 30px;
+        }
+
+        #call{
+
+         width: 1550px;
+         height: 160px;
+         border: 1px black solid;
+         padding-left: 300px;
+         padding-top: 100px;
+         background-color: black;
+
+        }
+
+        #footer{
+           border: 1px solid black;
+           margin-left: 335px;
+         }
+         #foot{
+            width: 1550px;
+            height: 500px;
+            background-color: black;
+         }
+
+         #drop{
+            padding: 10px;
+            color: rgb(46, 45, 45);
+            background-color: black;
+        }
+
+        
